@@ -1,0 +1,26 @@
+[
+    {
+      "id": "puzzle_001",
+      "author": "yakubu",
+      "fixedPositions": {
+      "1": "Apfel",
+      "15": "Kirsche"   
+    },
+      "groups": [
+        { "category": "Obst", "words": ["Apfel", "Banane", "Kirsche", "Pflaume"] },
+        { "category": "Farben", "words": ["Rot", "Gelb", "Blau", "Orange"] },
+        { "category": "Hauptstädte", "words": ["Wien", "Berlin", "Paris", "Rom"] },
+        { "category": "Musikinstrumente", "words": ["Geige", "Flöte", "Klavier", "Gitarre"] }
+      ]
+    },
+    {
+      "id": "puzzle_002",
+      "groups": [
+        { "category": "Gemüse", "words": ["Karotte", "Gurke", "Paprika", "Zucchini"] },
+        { "category": "Planeten", "words": ["Merkur", "Venus", "Erde", "Mars"] },
+        { "category": "Kleidung", "words": ["Hose", "Hemd", "Jacke", "Schuhe"] },
+        { "category": "Getränke", "words": ["Wasser", "Saft", "Tee", "Kaffee"] }
+      ]
+    }
+    
+]
