@@ -8,7 +8,7 @@ const nodemailer = require('nodemailer');
 const app = express();
 
 const corsOptions = {
-    origin: process.env.FRONTEND_URL || 'http://localhost:3000', // Frontend-URL aus Umgebungsvariable oder localhost
+    origin: process.env.FRONTEND_URL || 'https://melodic-liger-971259.netlify.app/', // Frontend-URL aus Umgebungsvariable oder localhost
     optionsSuccessStatus: 200
 };
   app.use(cors(corsOptions));
