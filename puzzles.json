@@ -1,26 +1,722 @@
 [
-    {
-      "id": "puzzle_001",
-      "author": "yakubu",
-      "fixedPositions": {
-      "1": "Apfel",
-      "15": "Kirsche"   
+  {
+    "id": "puzzle_001",
+    "author": "yakubu & vanscho",
+    "fixedPositions": {
+      "1": "FILTER",
+      "2": "FASERN",
+      "3": "",
+      "4": ""
     },
-      "groups": [
-        { "category": "Obst", "words": ["Apfel", "Banane", "Kirsche", "Pflaume"] },
-        { "category": "Farben", "words": ["Rot", "Gelb", "Blau", "Orange"] },
-        { "category": "Hauptstädte", "words": ["Wien", "Berlin", "Paris", "Rom"] },
-        { "category": "Musikinstrumente", "words": ["Geige", "Flöte", "Klavier", "Gitarre"] }
-      ]
+    "groups": [
+      {
+        "category": "Dinge, die beim Waschen zu beachten sind",
+        "words": [
+          "TEMPERATUR",
+          "FARBE",
+          "FASERN",
+          "UMDREHUNGEN"
+        ]
+      },
+      {
+        "category": "Staub___",
+        "words": [
+          "WEDEL",
+          "ZUCKER",
+          "FÄNGER",
+          "FILTER"
+        ]
+      },
+      {
+        "category": "Ticketinformationen",
+        "words": [
+          "NUMMER",
+          "RANG",
+          "EINGANG",
+          "EINLASS"
+        ]
+      },
+      {
+        "category": "Musikinstrumente",
+        "words": [
+          "GEIGE",
+          "FLÖTE",
+          "KLAVIER",
+          "GITARRE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_002",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "KLEIDUNG",
+      "2": "SPIEGEL",
+      "3": "",
+      "4": ""
     },
-    {
-      "id": "puzzle_002",
-      "groups": [
-        { "category": "Gemüse", "words": ["Karotte", "Gurke", "Paprika", "Zucchini"] },
-        { "category": "Planeten", "words": ["Merkur", "Venus", "Erde", "Mars"] },
-        { "category": "Kleidung", "words": ["Hose", "Hemd", "Jacke", "Schuhe"] },
-        { "category": "Getränke", "words": ["Wasser", "Saft", "Tee", "Kaffee"] }
-      ]
-    }
-    
+    "groups": [
+      {
+        "category": "Thermo(s)___",
+        "words": [
+          "METER",
+          "KANNE",
+          "BECHER",
+          "KLEIDUNG"
+        ]
+      },
+      {
+        "category": "Pizza Funghi",
+        "words": [
+          "PILZE",
+          "MOZZARELLA",
+          "TEIG",
+          "TOMATEN"
+        ]
+      },
+      {
+        "category": "Hauptstädte",
+        "words": [
+          "BISCHKEK",
+          "BERLIN",
+          "OUAGADOUGOU",
+          "ASTANA"
+        ]
+      },
+      {
+        "category": "Deutsche Zeitungen/Zeitschriften",
+        "words": [
+          "BILD",
+          "SPIEGEL",
+          "ZEIT",
+          "STERN"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_003",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Deutsche Wörter im Englischen",
+        "words": [
+          "KINDERGARTEN",
+          "BRATWURST",
+          "DOPPELGÄNGER",
+          "KITSCH"
+        ]
+      },
+      {
+        "category": "Fotografie",
+        "words": [
+          "ABZUG",
+          "POSITIV",
+          "LICHTBILD",
+          "AUFNAHME"
+        ]
+      },
+      {
+        "category": "Zupfinstrumente",
+        "words": [
+          "BASS",
+          "GITARRE",
+          "UKULELE",
+          "MANDOLINE"
+        ]
+      },
+      {
+        "category": "Nachbildung",
+        "words": [
+          "ABBILD",
+          "KOPIE",
+          "PLAGIAT",
+          "DUPLIKAT"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_004",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "BERG",
+      "2": "WEIN",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Rottöne",
+        "words": [
+          "TERRACOTTA",
+          "WEIN",
+          "ZIEGEL",
+          "BRAUN"
+        ]
+      },
+      {
+        "category": "In der Kirche",
+        "words": [
+          "ALTAR",
+          "KANZEL",
+          "CHOR",
+          "ORGEL"
+        ]
+      },
+      {
+        "category": "___zug",
+        "words": [
+          "ATEM",
+          "EIN",
+          "SPIEL",
+          "BERG"
+        ]
+      },
+      {
+        "category": "Geräte zur Beobachtung/Überwachung",
+        "words": [
+          "KAMERA",
+          "FERNGLAS",
+          "WANZE",
+          "SENDER"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_005",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "AMPHORE",
+      "2": "DOSE",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Kann ein Läufer sein",
+        "words": [
+          "JOGGER",
+          "TEPPICH",
+          "SCHACHFIGUR",
+          "HANDBALLER"
+        ]
+      },
+      {
+        "category": "Antike Vasen",
+        "words": [
+          "AMPHORE",
+          "HYDRIA",
+          "RHYTON",
+          "DINOS"
+        ]
+      },
+      {
+        "category": "Getränkeverpackungen",
+        "words": [
+          "TETRAPACK",
+          "DOSE",
+          "GLASFLASCHE",
+          "PLASTIKFLASCHE"
+        ]
+      },
+      {
+        "category": "-ismus",
+        "words": [
+          "LIBERAL",
+          "KAPITAL",
+          "SOZIAL",
+          "PLURAL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_006",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "ZOLL",
+      "2": "MESSER",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Kann scharf sein",
+        "words": [
+          "VERSTAND",
+          "KRITIK",
+          "KURVE",
+          "MESSER"
+        ]
+      },
+      {
+        "category": "bedeutend",
+        "words": [
+          "EMINENT",
+          "SUBSTANZIELL",
+          "ESSENZIELL",
+          "SIGNIFIKANT"
+        ]
+      },
+      {
+        "category": "alt",
+        "words": [
+          "BETAGT",
+          "ANTIQUIERT",
+          "ARCHAISCH",
+          "ANTIK"
+        ]
+      },
+      {
+        "category": "Längeneinheiten",
+        "words": [
+          "FUSS",
+          "ZOLL",
+          "METER",
+          "KLAFTER"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_007",
+    "author": "iaggobo",
+    "fixedPositions": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Automarken",
+        "words": [
+          "MANTA",
+          "KÄFER",
+          "ENTE",
+          "JAGUAR"
+        ]
+      },
+      {
+        "category": "Flugunfähige Vögel",
+        "words": [
+          "KIWI",
+          "EMU",
+          "DODO",
+          "STRAUSS"
+        ]
+      },
+      {
+        "category": "Schnellste Tiere im jeweiligen Habitat",
+        "words": [
+          "SCHWARZER MARLIN",
+          "GEPARD",
+          "MAULWURF",
+          "WANDERFALKE"
+        ]
+      },
+      {
+        "category": "Königs___",
+        "words": [
+          "PINGUIN",
+          "KRABBE",
+          "LACHS",
+          "KOBRA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_008",
+    "author": "yakubu & RoKi",
+    "fixedPositions": {
+      "1": "RINGEN",
+      "2": "KNOTEN",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "kann platzen",
+        "words": [
+          "KNOTEN",
+          "BOMBE",
+          "TRAUM",
+          "BLASE"
+        ]
+      },
+      {
+        "category": "(um) Luft ___",
+        "words": [
+          "RINGEN",
+          "KRIEGEN",
+          "HOLEN",
+          "SCHNAPPEN"
+        ]
+      },
+      {
+        "category": "sich unterhalten",
+        "words": [
+          "PARLIEREN",
+          "KONVERSIEREN",
+          "RÄSONIEREN",
+          "SCHWADRONIEREN"
+        ]
+      },
+      {
+        "category": "Palindrome",
+        "words": [
+          "RADAR",
+          "RENTNER",
+          "NEBEN",
+          "OTTO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_009",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "SPIEGEL",
+      "2": "BLICK",
+      "3": "LÜGE",
+      "4": "ANSCHULDIGUNG"
+    },
+    "groups": [
+      {
+        "category": "kann \"geworfen\" werden",
+        "words": [
+          "ANKER",
+          "BLICK",
+          "SCHATTEN",
+          "ANSCHULDIGUNG"
+        ]
+      },
+      {
+        "category": "Sachen",
+        "words": [
+          "ZEUG",
+          "KREMPEL",
+          "DINGE",
+          "KRAM"
+        ]
+      },
+      {
+        "category": "Schneewittchen",
+        "words": [
+          "SPIEGEL",
+          "ZWERGE",
+          "KÖNIGIN",
+          "PRINZ"
+        ]
+      },
+      {
+        "category": "dienen zur (Aus)Flucht",
+        "words": [
+          "FENSTER",
+          "NOTAUSGANG",
+          "LÜGE",
+          "AUSREDE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_010",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "AUSSCHNEIDEN",
+      "2": "EINWICKELN",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "kann \"fallen\" oder \"gefällt\" werden",
+        "words": [
+          "ENTSCHEIDUNG",
+          "URTEIL",
+          "GROSCHEN",
+          "WÜRFEL"
+        ]
+      },
+      {
+        "category": "Einheiten",
+        "words": [
+          "METER",
+          "WATT",
+          "VOLT",
+          "PASCAL"
+        ]
+      },
+      {
+        "category": "jemanden täuschen/manipulieren",
+        "words": [
+          "BLENDEN",
+          "EINWICKELN",
+          "KÖDERN",
+          "EINSEIFEN"
+        ]
+      },
+      {
+        "category": "Optionen beim Rechtsklick",
+        "words": [
+          "AUSSCHNEIDEN",
+          "KOPIEREN",
+          "EINFÜGEN",
+          "LÖSCHEN"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_011",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "AUFMERKSAMKEIT",
+      "2": "SPANNUNG",
+      "3": "GRENZE",
+      "4": "VETO"
+    },
+    "groups": [
+      {
+        "category": "kann \"gezogen\" werden",
+        "words": [
+          "SCHLUSSFOLGERUNG",
+          "GRENZE",
+          "BILANZ",
+          "AUFMERKSAMKEIT"
+        ]
+      },
+      {
+        "category": "Hoch___",
+        "words": [
+          "ZEIT",
+          "SPANNUNG",
+          "DRUCK",
+          "BEET"
+        ]
+      },
+      {
+        "category": "sehr sorgfältig",
+        "words": [
+          "AKRIBISCH",
+          "PENIBEL",
+          "MINUTIÖS",
+          "GEWISSENHAFT"
+        ]
+      },
+      {
+        "category": "Wörter, die der lateinischen Ich-Form entsprechen",
+        "words": [
+          "VIDEO",
+          "AUDIO",
+          "CREDO",
+          "VETO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_012",
+    "author": "yakubu & RoKi",
+    "fixedPositions": {
+      "1": "HERZ",
+      "2": "LUNGE",
+      "3": "FIEBER",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "___schlag",
+        "words": [
+          "HERZ",
+          "NACH",
+          "RAT",
+          "UM"
+        ]
+      },
+      {
+        "category": "Organe",
+        "words": [
+          "HAUT",
+          "GEHIRN",
+          "LEBER",
+          "LUNGE"
+        ]
+      },
+      {
+        "category": "Dinge, die schwanken/sich schnell ändern",
+        "words": [
+          "FIEBER",
+          "BÖRSE",
+          "WETTER",
+          "STIMMUNG"
+        ]
+      },
+      {
+        "category": "zurücklegen",
+        "words": [
+          "SPULEN",
+          "ABREIßEN",
+          "VORANBRINGEN",
+          "WEITERBRINGEN"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_013",
+    "author": "yakubu & vanscho",
+    "fixedPositions": {
+      "1": "JURA",
+      "2": "THEOLOGIE",
+      "3": "TETHYS",
+      "4": "RÜSTUNG"
+    },
+    "groups": [
+      {
+        "category": "Geologische Erdzeitalter",
+        "words": [
+          "JURA",
+          "KREIDE",
+          "QUARTÄR",
+          "KARBON"
+        ]
+      },
+      {
+        "category": "Grundlagen mittelalterlicher Universitätsausbildung",
+        "words": [
+          "GRAMMATIK",
+          "MUSIK",
+          "MEDIZIN",
+          "THEOLOGIE"
+        ]
+      },
+      {
+        "category": "Monde des Sonnensystems",
+        "words": [
+          "MOND",
+          "PUCK",
+          "MIRANDA",
+          "TETHYS"
+        ]
+      },
+      {
+        "category": "Statusanzeigen in Rollenspielen",
+        "words": [
+          "LEBEN",
+          "AUSDAUER",
+          "ERFAHRUNG",
+          "RÜSTUNG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_014",
+    "author": "yakubu & RoKi",
+    "fixedPositions": {
+      "1": "PASSWORT",
+      "2": "GEHEIMNIS",
+      "3": "AKKU",
+      "4": "STIRNLAMPE"
+    },
+    "groups": [
+      {
+        "category": "schwer zu \"entwirren\"",
+        "words": [
+          "GEHEIMNIS",
+          "KNOTEN",
+          "ALBTRAUM",
+          "PARADOXON"
+        ]
+      },
+      {
+        "category": "Schutzmechanismen",
+        "words": [
+          "IMPFUNG",
+          "SCHILD",
+          "HELM",
+          "PASSWORT"
+        ]
+      },
+      {
+        "category": "Campingausstattung",
+        "words": [
+          "ZELT",
+          "ISOMATTE",
+          "SCHLAFSACK",
+          "STIRNLAMPE"
+        ]
+      },
+      {
+        "category": "liefert Strom",
+        "words": [
+          "AKKU",
+          "BATTERIE",
+          "DYNAMO",
+          "STECKDOSE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_015",
+    "author": "yakubu & Lucia",
+    "fixedPositions": {
+      "1": "OLIVENÖL",
+      "2": "RAPSÖL",
+      "3": "SONNENBLUMENÖL",
+      "4": "ESSIG"
+    },
+    "groups": [
+      {
+        "category": "Grundzutaten einer Tomatensoße",
+        "words": [
+          "ZWIEBELN",
+          "KNOBLAUCH",
+          "TOMATEN",
+          "OLIVENÖL"
+        ]
+      },
+      {
+        "category": "kann raffiniert sein",
+        "words": [
+          "ZUCKER",
+          "RAPSÖL",
+          "STRATEGIE",
+          "GESCHMACK"
+        ]
+      },
+      {
+        "category": "reich an Vitamin E",
+        "words": [
+          "SONNENBLUMENÖL",
+          "MANDELN",
+          "AVOCADO",
+          "SPINAT"
+        ]
+      },
+      {
+        "category": "Hausmittel zum Putzen",
+        "words": [
+          "ESSIG",
+          "ZITRONENSÄURE",
+          "SCHMIERSEIFE",
+          "NATRON"
+        ]
+      }
+    ]
+  }
 ]
