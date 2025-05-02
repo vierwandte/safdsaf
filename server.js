@@ -8,7 +8,7 @@ const nodemailer = require('nodemailer');
 const app = express();
 
 const corsOptions = {
-    origin: process.env.FRONTEND_URL || 'https://melodic-liger-971259.netlify.app/', // Frontend-URL aus Umgebungsvariable oder localhost
+    origin: process.env.FRONTEND_URL || 'http://localhost:3000', // Frontend-URL aus Umgebungsvariable oder localhost
     optionsSuccessStatus: 200
 };
   app.use(cors(corsOptions));
@@ -40,7 +40,7 @@ try {
 // WICHTIG: Setze hier ein festes Startdatum (in UTC!) für dein erstes Rätsel.
 // Beispiel: 7. April 2025, 00:00:00 UTC
 // Monate sind 0-indiziert (0=Januar, 1=Februar, ..., 3=April)
-const startDate = new Date(Date.UTC(2025, 3, 9)); // Jahr, Monat(0-index), Tag
+const startDate = new Date(Date.UTC(2025, 4, 2)); // Jahr, Monat(0-index), Tag
 
 function getTodaysPuzzle() {
     if (allPuzzles.length === 0) {
@@ -256,7 +256,7 @@ app.post('/submit-puzzle', async (req, res) => { // async für await bei sendMai
     });
 
     // --- E-Mail Inhalt ---
-    const subject = `Neuer Rätselvorschlag für Vierwandt: ${category}`;
+    const subject = `Neuer Rätselvorschlag für Vierwandte: ${category}`;
     const textContent = `
 Neuer Vorschlag eingegangen:
 
@@ -266,7 +266,7 @@ Wortvorschläge:
 ${words || '(keine angegeben)'}
     `;
     const htmlContent = `
-<h3>Neuer Rätselvorschlag für Vierwandt</h3>
+<h3>Neuer Rätselvorschlag für Vierwandte</h3>
 <p><strong>Autor:</strong> ${author}</p>
 <p><strong>Kategorie:</strong> ${category}</p>
 <p><strong>Wortvorschläge:</strong></p>
