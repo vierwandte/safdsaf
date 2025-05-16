@@ -718,5 +718,245 @@
         ]
       }
     ]
+  },
+  {
+    "id": "puzzle_016",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "KÄLTE",
+      "2": "EIS",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "kann \"gebrochen\" werden",
+        "words": [
+          "VERSPRECHEN",
+          "REKORD",
+          "EIS",
+          "HERZ"
+        ]
+      },
+      {
+        "category": "bittere/er ___",
+        "words": [
+          "PILLE",
+          "KÄLTE",
+          "ENTTÄUSCHUNG",
+          "ERNST"
+        ]
+      },
+      {
+        "category": "stark loben",
+        "words": [
+          "PREISEN",
+          "EHREN",
+          "WÜRDIGEN",
+          "GLORIFIZIEREN"
+        ]
+      },
+      {
+        "category": "Wortkreuzungen",
+        "words": [
+          "DEMOKRATUR",
+          "VERSCHLIMMBESSERN",
+          "BRUNCH",
+          "TEURO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_017",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "ÜBERSEHEN",
+      "2": "WACHSEN",
+      "3": "CREME",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Kontronyme (Wörter mit gegensätzlichen Bedeutungen)",
+        "words": [
+          "UMFAHREN",
+          "EINSTELLEN",
+          "ÜBERSEHEN",
+          "AUFHEBEN"
+        ]
+      },
+      {
+        "category": "Wörter mit \"ks\"-Laut, geschrieben als \"chs\"",
+        "words": [
+          "FUCHS",
+          "WACHSEN",
+          "SECHS",
+          "ECHSE"
+        ]
+      },
+      {
+        "category": "Französische Lehnwörter",
+        "words": [
+          "PORTEMONNAIE",
+          "TROTTOIR",
+          "COUSIN",
+          "CREME"
+        ]
+      },
+      {
+        "category": "Ausrufe",
+        "words": [
+          "AUA",
+          "HUCH",
+          "IGITT",
+          "PENG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_018",
+    "author": "yakubu",
+    "fixedPositions": {
+      "1": "RICHARD",
+      "2": "WAGNER",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Aktive deutsche NBA-Spieler",
+        "words": [
+          "SCHRÖDER",
+          "WAGNER",
+          "WAGNER",
+          "KLEBER"
+        ]
+      },
+      {
+        "category": "klassisch zu siebt",
+        "words": [
+          "TODSÜNDE",
+          "ZWERG",
+          "WELTWUNDER",
+          "TAG"
+        ]
+      },
+      {
+        "category": "Phantasietiere",
+        "words": [
+          "EINHORN",
+          "PHÖNIX",
+          "GREIF",
+          "DRACHE"
+        ]
+      },
+      {
+        "category": "Strauss/Strauß",
+        "words": [
+          "RICHARD",
+          "ENGELBERT",
+          "VOGEL",
+          "BLUMEN"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_019",
+    "author": "yakubu & vanscho",
+    "fixedPositions": {
+      "1": "PFERD",
+      "2": "HUND",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "Comictiere in Entenhausen",
+        "words": [
+          "ENTE",
+          "GANS",
+          "MAUS",
+          "HUND"
+        ]
+      },
+      {
+        "category": "Schweizer Amtssprachen",
+        "words": [
+          "RÄTOROMANISCH",
+          "FRANZÖSISCH",
+          "DEUTSCH",
+          "ITALIENISCH"
+        ]
+      },
+      {
+        "category": "\"der\" und \"das\" als Artikel möglich",
+        "words": [
+          "PROSPEKT",
+          "VIRUS",
+          "KETCHUP",
+          "MARZIPAN"
+        ]
+      },
+      {
+        "category": "haben einen Schweif",
+        "words": [
+          "KOMET",
+          "PFERD",
+          "PERCHT",
+          "FUCHS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puzzle_020",
+    "author": "yakubu & vanscho",
+    "fixedPositions": {
+      "1": "VOLUMEN",
+      "2": "RAUM",
+      "3": "",
+      "4": ""
+    },
+    "groups": [
+      {
+        "category": "auf Haarpflegeprodukten zu finden",
+        "words": [
+          "VOLUMEN",
+          "GLANZ",
+          "HALT",
+          "PFLEGE"
+        ]
+      },
+      {
+        "category": "gemeinsam mit dem Elefant in Redewendungen/Sprichwörtern",
+        "words": [
+          "GEDÄCHTNIS",
+          "RAUM",
+          "MÜCKE",
+          "PORZELLANLADEN"
+        ]
+      },
+      {
+        "category": "kann aus Latex hergestellt werden",
+        "words": [
+          "KONDOM",
+          "HANDSCHUHE",
+          "KLEBSTOFF",
+          "KISSEN"
+        ]
+      },
+      {
+        "category": "AB___",
+        "words": [
+          "DRIFTEN",
+          "GEHEN",
+          "LASS",
+          "ER"
+        ]
+      }
+    ]
   }
 ]
